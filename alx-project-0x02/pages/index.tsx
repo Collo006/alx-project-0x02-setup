@@ -1,3 +1,4 @@
+import Card from "@/components/common/Card";
 import Header from "@/components/layout/Header";
 
 const Index: React.FC=()=>{
@@ -5,6 +6,8 @@ const Index: React.FC=()=>{
     <div>
       <Header />
       <h1>Welcome Home!</h1>
+                  <Card title="EATING" content="BHAJIA" />
+      
     </div>
   )
 }
