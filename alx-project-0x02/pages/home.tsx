@@ -7,7 +7,8 @@ const Home: React.FC =()=>{
         <div>
             <Header/>
             <h1>HOME PAGE</h1>
-            <Card title="EATING" content="CHIPS" />
+            <Card title="EATING" content="BAE" />
+            <Card content="ChIPS" title="BOO"/>
         </div>
     )
 }
